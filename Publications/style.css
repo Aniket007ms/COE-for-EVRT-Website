@@ -1,0 +1,21 @@
+.publications{
+	padding: 0 10%;
+}
+.jumbotron{
+	margin: 3% 15%;
+}
+.jumbotron h1{
+	text-align: center;
+	border-style: solid;
+	margin: 1% 0%;
+}
+.nav{
+	padding-left: 80%;
+}
+.card-header{
+	border-style: solid;
+	border-color: white;
+}
+.card{
+	margin: 2% 8%;
+}
